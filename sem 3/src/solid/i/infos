@@ -1,0 +1,6 @@
+i - interface segregation
+
+some classes aren't neccesary need to implement all 
+the methods from the interface
+
+=> we need to have more interfaces

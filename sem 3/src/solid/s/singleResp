@@ -1,0 +1,6 @@
+s = single responsability principle
+
+- the class must do what its says, that doesn t mean 
+we need to have only one method
+
+-> Our class must have the same idea functions
