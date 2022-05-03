@@ -1,0 +1,16 @@
+Factory	- simple factory
+	- factory method
+	- acstract factory
+
+prototype - use only deep copy
+
+abstract - is a family of objects
+
+====things to recap before the exam====
+1. Singleton
+2. Builder
+3. Prototype
+4. Factory method
+	- simple factory method
+	- factory method
+	- abstract factory method
